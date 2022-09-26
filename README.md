@@ -1,3 +1,4 @@
 # sireoh.github.io
 
-[https://sireoh.github.io/ymdbg/](https://sireoh.github.io/ymdbg/)
+[YouTube Music Discord Bot Generator](https://sireoh.github.io/ymdbg/)
+[Twitch, YouTube and Discord Emote Webscraper](https://sireoh.github.io/emote-webscaper/)
