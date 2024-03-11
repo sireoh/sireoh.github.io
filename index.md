@@ -2,122 +2,38 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Hello, I am Vincent.
 
-[Link to another page](./another-page.html).
+I am a CST Student with a background in Film. I do [Art](https://art.vincef.ca/) and 2D Animation [freelance](https://comms.vincef.ca/). I craft web apps and do gamedev on the side as well.
 
-There should be whitespace between paragraphs.
+Here are Some of My Favourite Apps/Games.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### Javascript: 
 
-# Header 1
+*   [PNGTuber](https://sireoh.itch.io/pnggen), A CSS generator for OBS that uses Discord for reactive PNGs.
+*   [Twitch Title](https://github.com/sireoh/twitch-title-gen-js), OBS overlay that generates titles for my [twitch channel.](https://twitch.tv/sireoh)
+*   [Youtube Music Discord](https://github.com/sireoh/ytmdg), Users can input the url of **one** song, for the url of a playlist to be created.
+*   [Mood Tracker](https://github.com/sireoh/1800_2024Winter_BBY32), A web-app created in COMP1800 alongside two other team members.
+*   [Maplestory Website Clone](https://github.com/sireoh/ajax-maplestory), Dynamic webpage that is read from JSON files to parse data onto a page using AJAX, Node.js and Express.
+*   [Darumaka Catcher](https://sireoh.itch.io/darucatch), Pokemon battling system inspired catching game, written in javascript.
+*   [Degen Sleep](https://sireoh.itch.io/dbot), Alert box test app.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Python: 
 
-## Header 2
+*   [Python Twitch Title](https://github.com/sireoh/twitch-title-gen-py), Python version of my title gen.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### Game Maker Studio: 
 
-### Header 3
+*   [rock](https://sireoh.itch.io/rock) is a game about blasting and drawing with rocks.
+*   [The Adventures of Cubeman](https://sireoh.itch.io/cubeman), My dream game project. Constant work in progress.
+*   [Balloon Popper Roulette](https://sireoh.itch.io/balloon-popper-roulette), Inspired by a minigame found in "Kaguya-sama: Love is war".
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### Godot: 
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+*   [Press F](https://sireoh.itch.io/press-f), Clicker game written in GDScript.
 
 * * *
 
-### Here is an unordered list:
+[LinkedIn](https://www.linkedin.com/in/vinceefung/) \| [Instagram](https://www.instagram.com/sireohseo/) \| [Twitter](https://twitter.com/kimerura/)
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+[Vimeo](https://vimeo.com/vincentfung) \| [YouTube](https://www.youtube.com/channel/UCJJPd9RJvNfGpPXJY6PjaHg) \| [itch.io](https://sireoh.itch.io/)
