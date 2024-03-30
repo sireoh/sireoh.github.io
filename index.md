@@ -10,7 +10,7 @@ Here are Some of My Favourite Apps/Games.
 
 ### Javascript: 
 
-*   [PNGTuber](https://sireoh.itch.io/pnggen), A CSS generator for OBS that uses Discord for reactive PNGs.
+*   [PNGTuber](https://sireoh.github.io/pngtuber/), A CSS generator for OBS that uses Discord for reactive PNGs.
 *   [Twitch Title](https://github.com/sireoh/twitch-title-gen-js), OBS overlay that generates titles for my [twitch channel.](https://twitch.tv/sireoh)
 *   [Youtube Music Discord](https://github.com/sireoh/ytmdg), Users can input the url of **one** song, for the url of a playlist to be created.
 *   [Mood Tracker](https://github.com/sireoh/1800_2024Winter_BBY32), A web-app created in COMP1800 alongside two other team members.
